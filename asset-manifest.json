@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-resume/static/css/main.0a07dc95.chunk.css",
-    "main.js": "/portfolio-resume/static/js/main.b0d35143.chunk.js",
-    "main.js.map": "/portfolio-resume/static/js/main.b0d35143.chunk.js.map",
+    "main.js": "/portfolio-resume/static/js/main.b089f288.chunk.js",
+    "main.js.map": "/portfolio-resume/static/js/main.b089f288.chunk.js.map",
     "runtime-main.js": "/portfolio-resume/static/js/runtime-main.4da9afe6.js",
     "runtime-main.js.map": "/portfolio-resume/static/js/runtime-main.4da9afe6.js.map",
     "static/css/2.faba4d30.chunk.css": "/portfolio-resume/static/css/2.faba4d30.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.faba4d30.chunk.css.map": "/portfolio-resume/static/css/2.faba4d30.chunk.css.map",
     "static/css/main.0a07dc95.chunk.css.map": "/portfolio-resume/static/css/main.0a07dc95.chunk.css.map",
     "static/js/2.e708c705.chunk.js.LICENSE.txt": "/portfolio-resume/static/js/2.e708c705.chunk.js.LICENSE.txt",
-    "static/media/boune.ae3f0f46.mp4": "/portfolio-resume/static/media/boune.ae3f0f46.mp4",
+    "static/media/bon-app.3318ec5b.mp4": "/portfolio-resume/static/media/bon-app.3318ec5b.mp4",
     "static/media/About.css": "/portfolio-resume/static/media/cover.04236303.jpeg",
     "static/media/covid-19.b0f597f7.PNG": "/portfolio-resume/static/media/covid-19.b0f597f7.PNG",
     "static/media/Contact.css": "/portfolio-resume/static/media/img_bg.79e3fbcf.jpg",
@@ -26,6 +26,6 @@
     "static/css/2.faba4d30.chunk.css",
     "static/js/2.e708c705.chunk.js",
     "static/css/main.0a07dc95.chunk.css",
-    "static/js/main.b0d35143.chunk.js"
+    "static/js/main.b089f288.chunk.js"
   ]
 }
