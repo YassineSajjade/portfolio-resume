@@ -1,0 +1,18 @@
+html{
+    color: #545454 !important;
+    scroll-behavior: smooth;
+}
+body{
+    font-family: Roboto,sans-serif !important;
+    color: #545454 !important;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li a{
+    color: #545454;
+}
+
+
+
+
