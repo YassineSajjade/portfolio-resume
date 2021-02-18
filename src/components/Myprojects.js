@@ -75,7 +75,7 @@ class Myprojects extends Component {
                             <div className="card-body">
                                 <h5 className="card-title">WEB SITE FOR COVID-19</h5>
                                 <p className="card-text">web site full responsive for COVID-19 CORONAVIRUS PANDEMIC STATISTICS</p>
-                                <p className="card-text-link"><a className="text-muted" href="https://friendly-ride-4d005d.netlify.app/">https://friendly-ride-4d005d.netlify.app</a></p>
+                                <p className="card-text-link"><a className="text-muted" href="https://friendly-ride-4d005d.netlify.app/">https://friendly-ride-4d005d.netlify.app </a></p>
                             </div>
                         </div>
                     </div>
