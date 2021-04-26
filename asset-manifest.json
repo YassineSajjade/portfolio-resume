@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-resume/static/css/main.9b0129c0.chunk.css",
-    "main.js": "/portfolio-resume/static/js/main.93ff5fcc.chunk.js",
-    "main.js.map": "/portfolio-resume/static/js/main.93ff5fcc.chunk.js.map",
+    "main.js": "/portfolio-resume/static/js/main.2b1ccb3f.chunk.js",
+    "main.js.map": "/portfolio-resume/static/js/main.2b1ccb3f.chunk.js.map",
     "runtime-main.js": "/portfolio-resume/static/js/runtime-main.191efb73.js",
     "runtime-main.js.map": "/portfolio-resume/static/js/runtime-main.191efb73.js.map",
     "static/css/2.faba4d30.chunk.css": "/portfolio-resume/static/css/2.faba4d30.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/bon-app.3318ec5b.mp4": "/portfolio-resume/static/media/bon-app.3318ec5b.mp4",
     "static/media/About.css": "/portfolio-resume/static/media/cover.04236303.jpeg",
     "static/media/covid-19.b0f597f7.PNG": "/portfolio-resume/static/media/covid-19.b0f597f7.PNG",
+    "static/media/groc-store.b894d353.PNG": "/portfolio-resume/static/media/groc-store.b894d353.PNG",
     "static/media/Contact.css": "/portfolio-resume/static/media/img_bg.79e3fbcf.jpg",
     "static/media/logo2.e41098cb.png": "/portfolio-resume/static/media/logo2.e41098cb.png",
     "static/media/profile.274934b3.png": "/portfolio-resume/static/media/profile.274934b3.png"
@@ -26,6 +27,6 @@
     "static/css/2.faba4d30.chunk.css",
     "static/js/2.c5196dc9.chunk.js",
     "static/css/main.9b0129c0.chunk.css",
-    "static/js/main.93ff5fcc.chunk.js"
+    "static/js/main.2b1ccb3f.chunk.js"
   ]
 }
