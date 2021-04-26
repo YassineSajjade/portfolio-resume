@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logoMobApp from '../images/logo2.png';
 import imgCovid19 from '../images/covid-19.PNG';
 import imgGrocStore from "../images/groc-store.PNG";
-import video from '../videos/bon-app.mp4';
+import video from '../videos/boune-app1.mp4';
 import './Myprojects.css';
 
 class Myprojects extends Component {
