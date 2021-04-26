@@ -31,9 +31,9 @@ class About extends Component {
                                     </div>
                                 </div>
                                 <p className="personal-profile__social">
-                                    <a href="#" className="hvr-pulse"><i className="fab fa-github-square"></i></a>
-                                    <a href="#" className="hvr-pulse"><i className="fab fa-linkedin"></i></a>
-                                    <a href="#" className="hvr-pulse"><i className="fab fa-facebook-square"></i></a>
+                                    <a href="https://github.com/YassineSajjade" className="hvr-pulse"><i className="fab fa-github-square"></i></a>
+                                    <a href="https://www.linkedin.com/in/yassine-sajjade-bb493918a/" className="hvr-pulse"><i className="fab fa-linkedin"></i></a>
+                                    <a href="https://www.facebook.com" className="hvr-pulse"><i className="fab fa-facebook-square"></i></a>
                                 </p>
                             </div>
                         </div>

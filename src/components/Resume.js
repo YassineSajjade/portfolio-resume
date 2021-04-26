@@ -53,8 +53,7 @@ class Resume extends Component {
                                         aria-valuenow="90"
                                         role="progressbar"
                                         style={{backgroundColor:"#1f5bb1",width:"90%"}}
-                                        data-aos="fade-right" 
-                                        data-aos="fade-right"></div>
+                                        data-aos="fade-right" ></div>
                                 </div>
                             </div>
                             <div className="skills_block">

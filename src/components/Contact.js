@@ -41,13 +41,13 @@ class Contact extends Component {
                             <div className="contact_social">
                                 <ul>
                                     <li>
-                                        <a href="#" className="hvr-pulse">Facebook</a>
+                                        <a href="https://www.facebook.com" className="hvr-pulse">Facebook</a>
                                     </li>
                                     <li>
-                                        <a href="#" className="hvr-pulse">GitHub</a>
+                                        <a href="https://github.com/YassineSajjade" className="hvr-pulse">GitHub</a>
                                     </li>
                                     <li>
-                                        <a href="#" className="hvr-pulse">Linkedin</a>
+                                        <a href="https://www.linkedin.com/in/yassine-sajjade-bb493918a/" className="hvr-pulse">Linkedin</a>
                                     </li>
                                 </ul>
                             </div>
