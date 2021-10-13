@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-resume/static/css/main.9b0129c0.chunk.css",
-    "main.js": "/portfolio-resume/static/js/main.de27b1df.chunk.js",
-    "main.js.map": "/portfolio-resume/static/js/main.de27b1df.chunk.js.map",
+    "main.js": "/portfolio-resume/static/js/main.068c40b0.chunk.js",
+    "main.js.map": "/portfolio-resume/static/js/main.068c40b0.chunk.js.map",
     "runtime-main.js": "/portfolio-resume/static/js/runtime-main.191efb73.js",
     "runtime-main.js.map": "/portfolio-resume/static/js/runtime-main.191efb73.js.map",
     "static/css/2.faba4d30.chunk.css": "/portfolio-resume/static/css/2.faba4d30.chunk.css",
@@ -20,13 +20,15 @@
     "static/media/groc-store.b894d353.PNG": "/portfolio-resume/static/media/groc-store.b894d353.PNG",
     "static/media/Contact.css": "/portfolio-resume/static/media/img_bg.79e3fbcf.jpg",
     "static/media/logo2.e41098cb.png": "/portfolio-resume/static/media/logo2.e41098cb.png",
-    "static/media/profile.274934b3.png": "/portfolio-resume/static/media/profile.274934b3.png"
+    "static/media/profile.274934b3.png": "/portfolio-resume/static/media/profile.274934b3.png",
+    "static/media/weather-icon.1df0c68a.png": "/portfolio-resume/static/media/weather-icon.1df0c68a.png",
+    "static/media/weatherapp_complet.10024661.mp4": "/portfolio-resume/static/media/weatherapp_complet.10024661.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.191efb73.js",
     "static/css/2.faba4d30.chunk.css",
     "static/js/2.c5196dc9.chunk.js",
     "static/css/main.9b0129c0.chunk.css",
-    "static/js/main.de27b1df.chunk.js"
+    "static/js/main.068c40b0.chunk.js"
   ]
 }
